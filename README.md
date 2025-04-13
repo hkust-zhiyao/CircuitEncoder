@@ -4,7 +4,7 @@ A Self-Supervised, Pre-Trained, and Cross-Stage-Aligned Circuit Encoder Provides
 The latest and full version of CircuitEncoder has been updated to
 - A multimodal RTL encoder: CircuitFusion (ICLR'25) 
     - CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design
-    - CircuitFusion fuses RTL-stage code, graph, and summary into a unnified embedding, supporting various design quality prediction tasks.
+    - CircuitFusion fuses RTL-stage code, graph, and summary into a unified register-level embedding, supporting various design quality prediction tasks.
     - [[Paper]](https://openreview.net/forum?id=rbnf7oe6JQ) 
     - [[Code]](https://github.com/hkust-zhiyao/CircuitFusion)
 - A multimodal netlist encoder: NetTAG (DAC'25) 
